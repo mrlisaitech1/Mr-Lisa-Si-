@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mrlisasitech.vercel.app/sitemap.xml
